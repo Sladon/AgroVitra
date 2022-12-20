@@ -1,7 +1,9 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup, Comment
+import csv
 
 links = []
+products_data = []
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
@@ -14,7 +16,7 @@ with sync_playwright() as p:
         links.append(result['href'])
     page.close()
 
-for link in links[7:]:
+for link in links[:1]:
     print(link)
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -51,5 +53,12 @@ for link in links[7:]:
             physical_properties = {list_obj[i]: list_obj[i+1].replace(':', '').strip() for i in range(0,len(list_obj)-1,2)}
             product_data['physical_properties'] = physical_properties
         
-        print(product_data)
+        products_data.append(product_data)
         page.close()
+
+#f = open('products_data.csv', 'w')
+#writer= csv.writer(f)
+
+all_elements = []
+for product_data in products_data:
+    all_elements+=product_data['elements']
