@@ -1,14 +1,16 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup, Comment
-import csv
+from urllib.request import urlopen
+
 
 links = []
 products_data = []
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
+    browser = p.firefox.launch(headless=True)
     page = browser.new_page()
     page.goto("https://www.agrovitra.com/productos/")
+        
     html = page.inner_html('#categories-accordion')
     soup = BeautifulSoup(html, 'html.parser')
     results = soup.find_all('a')
@@ -16,20 +18,25 @@ with sync_playwright() as p:
         links.append(result['href'])
     page.close()
 
-for link in links[:1]:
+for link in links:
     print(link)
+    product_data = {}
+    html = urlopen(link).read()
+    soup = BeautifulSoup(html, features="html.parser")
+    
+    image = soup.find('meta', property='og:image')
+    if image: product_data['image'] = image['content']
     with sync_playwright() as p:
+               
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto(link)
-        page.wait_for_function
         content = page.inner_html('#maincontent')
         soup = BeautifulSoup(content, 'html.parser')
         for element in soup(text=lambda text: isinstance(text, Comment)):
                 element.extract()
         soup.prettify()
 
-        product_data = {}
         title = soup.find('span', attrs={'data-ui-id': "page-title-wrapper"}).string
         product_data['title'] = title
         data = soup.find('div', attrs={'class': 'product attribute overview'})
@@ -55,10 +62,12 @@ for link in links[:1]:
         
         products_data.append(product_data)
         page.close()
+        
+with open('data.txt', 'w') as f:
+    for product_data in products_data:
+        for key in product_data.keys():
+            f.write(f"{key}: {product_data[key]}\n")
+        f.write("\n")
 
 #f = open('products_data.csv', 'w')
 #writer= csv.writer(f)
-
-all_elements = []
-for product_data in products_data:
-    all_elements+=product_data['elements']

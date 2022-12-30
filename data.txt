@@ -1,0 +1,876 @@
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Muriato de Potasio Soluble (sacos 25 kg)
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/u/r/urea_1_1.jpg
+title: Urea Granulada (Sacos 25 Kg.)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Puede ser usado como producto simple y en mezclas. 
+use_recomendation: Apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Índice de acidez': '-1,8(Kg CaCO3/1Kg N)', 'Índice NPK': '46-0-0', 'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_1.jpg
+title: Vitratec (Sacos 25 Kg.)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación, lo que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación logrando una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a estos mecanismos de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+Producto apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde azulino claro', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NC', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100gr)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_3.jpg
+title: Vitratec (Maxisacos)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación, lo que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación logrando una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a estos mecanismos de pérdida.
+use_recomendation: Producto apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Índice de acidez': '-1,8(Kg CaCO3/1Kg N)', 'Índice NPK': '46-0-0', 'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde azulino claro', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NC', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/g/u/gur-net.jpg
+title: GUR-NET (Sacos 25 Kg.)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la ureasa, lo que minimiza las pérdidas por volatilización y logra una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a este mecanismo de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(mmhos/cm)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'k (-273,15 °C)', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/g/u/gur-net_1.jpg
+title: GUR-NET (Maxisacos)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la ureasa, lo que minimiza las pérdidas por volatilización y logra una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a este mecanismo de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(mmhos/cm)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'k (-273,15 °C)', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_26_2.jpg
+title: Entec 26 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice de acidez': '-85,6 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '950 Kg/m3', 'Conductividad eléctrica': 'NR', 'pH': '3,5 (100g/l a 20°C)', 'Punto de fusión': '170°C', 'Solubilidad en agua a 20 °C': '653 (g/lt)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_26_3.jpg
+title: Entec 26 (Maxisacos)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice de acidez': '-85,6 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '950 Kg/m3', 'Conductividad eléctrica': 'NR', 'pH': '3,5 (100g/l a 20°C)', 'Punto de fusión': '170°C', 'Solubilidad en agua a 20 °C': '653 (g/ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec.jpg
+title: Entec 25-15 (Sacos 25 Kg.)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y fósforo de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Fertilizante no apto para fertiriego. Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Fósforo': '15%', 'Índice de acidez': '-51,8 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '25-15-0', 'Nitrógeno amoniacal': '14%', 'Nitrógeno nítrico': '11%', 'Nitrógeno total': '25%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_2.jpg
+title: Entec Perfect  14-7-17 (Sacos 25 Kg.)
+elements: ['N', 'P', 'K', 'Mg', 'S', 'B', 'Zn']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal, fósforo, potasio, magnesio, azufre y microelementos de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en fertiriego.
+chemicals: {'Azufre S': '9%', 'Boro': '0,02%', 'Fósforo': '7%', 'Nitrógeno amoniacal': '7,9%', 'Nitrógeno nítrico': '6,1%', 'Nitrógeno total': '14%', 'Óxido magnesio': '2%', 'Potasio': '17%', 'Zinc': '0,01%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/s/u/sulfotop_1.jpg
+title: Sulfotop  (Saco 25 Kg.)
+elements: ['N', 'S']
+description: None
+use_recomendation: Puede ser usado como producto simple y en mezclas. Apto para ser usado en fertiriego.
+chemicals: {'Azufre S': '13%', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '950 Kg/m3', 'Conductividad eléctrica': 'NR', 'pH': '3,5 (100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '170°C', 'Solubilidad en agua a 20 °C': '653gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_24superfosfatotriple_2.jpg
+title: Super Fosfato Triple (Sacos 25 Kg.)
+elements: ['P']
+description: Fertilizante granulado que aporta fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Calcio': '21%', 'Fósforo': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos', 'Color': 'Gris o café', 'Densidad': '1.129 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'pH': '2,5-2,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '308°C', 'Solubilidad en agua a 30 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_24superfosfatotriple_3.jpg
+title: Super Fosfato Triple (Maxisacos)
+elements: ['P']
+description: Fertilizante granulado que aporta fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Calcio': '21%', 'Fósforo': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos', 'Color': 'Gris o café', 'Densidad': '1.129 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'pH': '2,5-2,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '308°C', 'Solubilidad en agua a 30 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_20sulfatodeamoniogranulado_2.jpg
+title: Sulfato de Amonio Granulado (Maxisacos)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '24%', 'Índice de acidez': '-5,4 (Kg CaCO3/1Kg N)', 'Índice NPK': '21-0-0 + 24S', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '1.100 (Kg/m3)', 'Conductividad eléctrica': '1,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '69', 'pH': '5,5 (solución saturada a 15°C)', 'Punto de ebullición': '105°C', 'Punto de fusión': '235°C', 'Solubilidad en agua a 20 °C': '41,22 (g/100ml agua)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_17nitratodepotasiogranulado_3.jpg
+title: Nitrato de Potasio Granulado (Sacos 25 Kg.)
+elements: ['N', 'K']
+description: Fertilizante que aporta nitrógeno nítrico y potasio de rápida disponibilidad para las plantas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Índice de acidez': '2', 'Índice NPK': '13-0-45', 'Nitrógeno nítrico': '13%', 'Nitrógeno total': '13%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Perlas', 'Color': 'Blanco', 'Densidad': '1.200 (Kg/m3)', 'Conductividad eléctrica': '1,3 (mmhos/cm)', 'Índice salino (base salitre sódico=100)': '73,6', 'pH': '7 (solución al 10%)', 'Punto de ebullición': '400 °C', 'Punto de fusión': '333 °C', 'Solubilidad en agua a 20 °C': '316gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_17nitratodepotasiogranulado_2.jpg
+title: Nitrato de Potasio Granulado (Maxisacos)
+elements: ['N', 'K']
+description: Fertilizante que aporta nitrógeno nítrico y potasio de rápida disponibilidad para las plantas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Índice de acidez': '+2.0', 'Índice NPK': '13-0-45', 'Nitrógeno nítrico': '13%', 'Nitrógeno total': '13%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Perlas', 'Color': 'Blanco', 'Densidad': '1.200 (Kg/m3)', 'Conductividad eléctrica': '1,3 (mmhos/cm)', 'Índice salino (base salitre sódico=100)': '73,6', 'pH': '7 (solución al 10%)', 'Punto de ebullición': '400 °C', 'Punto de fusión': '333 °C', 'Solubilidad en agua a 20 °C': '316gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_21sulfatodepotasiogranulado_1.jpg
+title: Sulfato de Potasio Granulado (Sacos 25 Kg.)
+elements: ['K', 'S']
+description: Fertilizante granulado que aporta potasio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas.
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Azufre S': '18%', 'Índice NPK': '0-0-50+18S', 'Potasio': '50%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos compactados', 'Color': 'Blanco grisáceo', 'Densidad': '2,66 (Kg/l)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '46,1', 'pH': '7 (solución al 10%)', 'Punto de ebullición': '1.670 °C', 'Punto de fusión': '1.067 °C'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_21sulfatodepotasiogranulado_3.jpg
+title: Sulfato de Potasio Granulado (Maxisacos)
+elements: ['K', 'S']
+description: Fertilizante granulado que aporta potasio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas.
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Azufre S': '18%', 'Índice NPK': '0-0-50+18S', 'Potasio': '50%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos compactados', 'Color': 'Blanco grisáceo', 'Densidad': '2,66 (Kg/l)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '46,1', 'pH': '7 (solución al 10%)', 'Punto de ebullición': '1.670 °C', 'Punto de fusión': '1.067 °C'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mag.jpg
+title: VitraMag (Sacos 25 Kg.)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '9%', 'Óxido magnesio': '9%', 'Potasio': '31%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado', 'Color': 'Beige', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8', 'Solubilidad en agua a 0°C': '36,57 gr/100 ml', 'Solubilidad en agua a 10°C': '39,55 gr/100 ml', 'Solubilidad en agua a 20 °C': '43,56 gr/100 ml'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mag_1.jpg
+title: VitraMag (Maxisacos)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '9%', 'Óxido magnesio': '9%', 'Potasio': '31%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado', 'Color': 'Beige', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8', 'Solubilidad en agua a 0°C': '36,57 gr/100 ml', 'Solubilidad en agua a 10°C': '39,55 gr/100 ml', 'Solubilidad en agua a 20 °C': '43,56 gr/100 ml'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mop_1.jpg
+title: VitraMop (Maxisacos)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '4%', 'Óxido magnesio': '5%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado', 'Color': 'Blanco grisáceo', 'Densidad': '1,2052 g/ml', 'Humedad': '0.03%', 'pH': '9,8'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_13kieseritagranulada_3.jpg
+title: Kieserita Granulada (Sacos 25 Kg.)
+elements: ['Mg', 'S']
+description: Fertilizante granulado que aporta magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '20%', 'Óxido magnesio': '25%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado', 'Color': 'Gris claro', 'Densidad': '1.280 kg/m3 / 1.330 kg/m3', 'pH': '(25°C solución acuosa) aprox. 10', 'Punto de ebullición': 'No aplicable', 'Punto de inflamación': 'No es inflamable', 'Solubilidad en agua a 20 °C': '342 gr/ml'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_13kieseritagranulada_2.jpg
+title: Kieserita Granulada (Maxisacos)
+elements: ['Mg', 'S']
+description: Fertilizante granulado que aporta magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '20%', 'Óxido magnesio': '25%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado', 'Color': 'Gris claro', 'Densidad': '1.280 kg/m3 / 1.330 kg/m3', 'pH': '(25°C solución acuosa) aprox. 10', 'Punto de ebullición': 'No aplicable', 'Punto de fusión': 'No aplicable', 'Punto de inflamación': 'No es inflamable', 'Solubilidad en agua a 20 °C': '342 gr/ml', 'Limites de explosividad': 'No aplicable'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_5_dragox_1.jpg
+title: Dragox 
+elements: ['Ca']
+description: Enmienda granulada de acción rápida, compatible con mezclas de siembra en todo tipo de cultivos. Fertilizante granulado capaz de corregir problemas de bajo pH en el suelo de forma similar a como se hace a través de la aplicación de cal y dolomita en los suelos de la zona sur de Chile.
+use_recomendation: Puede ser usado como producto simple a o en mezclas, corrigiendo la acidez directamente en la zona radicular
+chemicals: {'Óxido magnesio': '55%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Café', 'Granulometría': '90% entre 2 a 4 mm', 'Densidad': '1.201 Kg/m³', 'Conductividad eléctrica': 'NR', 'Humedad': 'Menor a 1.5%', 'pH': '8 a 10 (solución al 10%)', 'Punto de ebullición': '3.000°C', 'Punto de fusión': '2.500°C', 'Resistencia': 'Mayor a 2 kg/granulo', 'Solubilidad en agua a 25 °C': '14,9 gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_mg.jpg
+title: Azufertil Magnesio (Sacos 25 Kg.)
+elements: ['S', 'Mg', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre, calcio y magnesio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '7%', 'Calcio': '26%', 'Óxido magnesio': '9%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3 (81 lb/cft)', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_2azufertilmagnesio_3.jpg
+title: Azufertil Magnesio (Maxisacos)
+elements: ['S', 'Mg', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre, calcio y magnesio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo. 
+use_recomendation: Fertilizante no apto para fertiriego
+chemicals: {'Azufre S': '7%', 'Calcio': '26%', 'Óxido magnesio': '9%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3 (81 lb/cft)', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/n/i/nitrato_de_calcio_2.jpg
+title: Nitrato de Calcio (Maxisacos)
+elements: ['N', 'Ca']
+description: None
+use_recomendation: Puede ser usado como fertilizante simple o en mezclas.
+chemicals: {'Calcio': '26%', 'Nitrógeno amoniacal': '1%', 'Nitrógeno nítrico': '14,5%', 'Nitrógeno total': '15,5%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos Blancos', 'Color': 'Blanco', 'Densidad': '1.000-1.100 (Kg/m3)', 'Conductividad eléctrica': '1,2 (mmhos/cm)', 'Índice salino (base salitre sódico=100)': '52,5', 'pH': '5-6 (solución al 10%)', 'Punto de ebullición': '132°C', 'Punto de fusión': '45°C', 'Solubilidad en agua': '292gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_22sulfatodezincgranulado_3.jpg
+title: Sulfato de Zinc Granulado (Sacos 25 Kg.)
+elements: ['Zn', 'S']
+description: Fertilizante granulado que aporta zinc y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Azufre S': '9%', 'Zinc': '20%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Gris', 'Densidad': '3.28 Kg/m3', 'Conductividad eléctrica': 'N.R.', 'Índice salino (base salitre sódico=100)': 'N.R.', 'pH': '4.5 (en solución saturada)', 'Punto de ebullición': '740 °C', 'Punto de fusión': '600°C', 'Solubilidad en agua a 20 °C': '30%'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_22sulfatodezincgranulado_2.jpg
+title: Sulfato de Zinc Granulado (Maxisacos)
+elements: ['Zn', 'S']
+description: Fertilizante granulado que aporta zinc y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego.
+chemicals: {'Azufre S': '9%', 'Zinc': '20%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Gris', 'Densidad': '3.28 Kg/m3', 'Conductividad eléctrica': 'N.R.', 'pH': '4.5 (en solución saturada)', 'Punto de ebullición': '740 °C', 'Punto de fusión': '600°C', 'Solubilidad en agua a 20 °C': '30%'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_10fosfatodiamonicogranulado_3.jpg
+title: Fosfato Diamónico Granulado (Maxisacos)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno y fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Fósforo': '46%', 'Nitrógeno amoniacal': '18%', 'Nitrógeno total': '18%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos', 'Color': 'Café', 'Densidad': '961 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '29,2', 'pH': '7,4 - 8,0 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '155°C (311°F)', 'Solubilidad en agua a 20 °C': '57,5 (g/100cc)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_10fosfatodiamonicogranulado_1.jpg
+title: Fosfato Diamónico Granulado (Sacos 25 Kg.)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno y fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Fósforo': '46%', 'Nitrógeno amoniacal': '18%', 'Nitrógeno total': '18%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos', 'Color': 'Café', 'Densidad': '961 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '29,2', 'pH': '7,4 - 8,0 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '155°C (311°F)', 'Solubilidad en agua a 20 °C': '57,5 (g/100cc)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_11fosfatomonoamonicogranulado_2.jpg
+title: Fosfato Monoamónico Granulado (Maxisacos)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno y fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Fósforo': '52%', 'Nitrógeno amoniacal': '11%', 'Nitrógeno total': '11%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos', 'Color': 'Café', 'Densidad': '971-1.060 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '25', 'pH': '4,4-4,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '190°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_15muriatodepotasiogranulado_3.jpg
+title: Muriato de Potasio Granulado (Maxisacos)
+elements: ['K']
+description: Fertilizante granulado que aporta potasio de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Índice NPK': '0-0-60', 'Potasio': '60%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos compactados', 'Color': 'Blanco', 'Densidad': '1,1 (g/cm3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '116,3', 'pH': '6-7 (solución al 10%)', 'Punto de ebullición': '1.500 C°', 'Punto de fusión': '790 C°', 'Solubilidad en agua a 20 °C': '330 (g/l)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_15muriatodepotasiogranulado_1.jpg
+title: Muriato de Potasio Granulado (Sacos 25 Kg.)
+elements: ['K']
+description: Fertilizante granulado que aporta potasio de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Índice NPK': '0-0-60', 'Potasio': '60%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos compactados', 'Color': 'Blanco', 'Densidad': '1,1 (g/cm3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '116,3', 'pH': '6-7 (solución al 10%)', 'Punto de ebullición': '1.500 C°', 'Punto de fusión': '790 C°', 'Solubilidad en agua a 20 °C': '330 (g/l)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_s_1.jpg
+title: Azufertil Azufre (Maxisacos)
+elements: ['S', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre y calcio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '15%', 'Calcio': '29%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_s.jpg
+title: Azufertil Azufre (Sacos 25 Kg.)
+elements: ['S', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre y calcio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '15%', 'Calcio': '29%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/c/a/can_27_1.jpg
+title: CAN 27 (Maxisacos)
+elements: ['N', 'Mg', 'Ca']
+description: El CAN 27 es un fertilizante granulado que según su origen puede aportar nitrógeno y calcio o nitrógeno calcio y magnesio. Su característica principal radica en que su contenido de nitrógeno total contiene una fracción nítrica y otra amoniacal en proporciones iguales. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Calcio': '6%', 'Nitrógeno amoniacal': '13,5%', 'Nitrógeno nítrico': '13,5%', 'Nitrógeno total': '27%', 'Óxido magnesio': '4%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos', 'Color': 'Gris amarillento', 'Densidad': '0,99 Kg/lt', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '>4,5 (solución al 10%)', 'Punto de ebullición': '>210 °C', 'Punto de fusión': '160°C - 170°C'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/c/a/can_27.jpg
+title: CAN 27 (Sacos 25 Kg.)
+elements: ['N', 'Mg', 'Ca']
+description: El CAN 27 es un fertilizante granulado que según su origen puede aportar nitrógeno y calcio o nitrógeno calcio y magnesio. Su característica principal radica en que su contenido de nitrógeno total contiene una fracción nítrica y otra amoniacal en proporciones iguales. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Calcio': '6%', 'Nitrógeno amoniacal': '13,5%', 'Nitrógeno nítrico': '13,5%', 'Nitrógeno total': '27%', 'Óxido magnesio': '4%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos', 'Color': 'Gris amarillento', 'Densidad': '0,99 Kg/lt', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '>4,5 (solución al 10%)', 'Punto de ebullición': '>210 °C', 'Punto de fusión': '160°C - 170°C', 'Solubilidad en agua': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_1.jpg
+title: Entec 25-15 (Maxisacos)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y fósforo de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Fertilizante no apto para fertiriego. Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Fósforo': '15%', 'Índice de acidez': '-51,8 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '25-15-0', 'Nitrógeno amoniacal': '14%', 'Nitrógeno nítrico': '11%', 'Nitrógeno total': '25%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_3.jpg
+title: Entec Perfect  14-7-17 (Maxisacos)
+elements: ['N', 'P', 'K', 'Mg', 'S', 'B', 'Zn']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal, fósforo, potasio, magnesio, azufre y microelementos de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation:  Puede ser usado como producto simple y en mezclas. No apto para uso en fertiriego.
+chemicals: {'Azufre S': '9%', 'Boro': '0,02%', 'Fósforo': '7%', 'Nitrógeno amoniacal': '7,9%', 'Nitrógeno nítrico': '6,1%', 'Nitrógeno total': '14%', 'Óxido magnesio': '2%', 'Potasio': '17%', 'Zinc': '0,01%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_2_1acidoborico_1.jpg
+title: Ácido Bórico (Sacos 25 Kg.)
+elements: ['B']
+description: El Ácido Bórico es un fertilizante que aporta Boro soluble para uso en fertiriego. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Boro': '17,5%', 'Índice de acidez': 'NR', 'Índice NPK': '0-0-0+17,5% B', 'Óxido bórico': '(B2O3) 56,1%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '0,8-0,9 (gr/cm3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '3,9 (solución al 3% a 20°C)', 'Punto de ebullición': '300°C', 'Punto de fusión': '170°C', 'Punto de inflamación': 'No inflamable', 'Solubilidad en agua a 20 °C': '4.9 (g/100ml de agua)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_21.jpg
+title: Entec 21 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante soluble para uso en fertiriego que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, viniendo además con un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación.
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '24%', 'Índice NPK': '21 +24%S', 'Nitrógeno': '21%', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales o perlas', 'Color': 'Blanco amarillento', 'Olor': 'Prácticamente sin olor.', 'Densidad': '1.766 g/cm3 (20°C)', 'pH': '5 (solución 100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': '764 g/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/n/i/nitrato_de_magnesio.jpg
+title: Nitrato de Magnesio Soluble (Sacos 25 Kg.)
+elements: ['N', 'Mg']
+description: Fertilizante que aporta nitrógeno nítrico y magnesio de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Nitrógeno nítrico': '11,5%', 'Nitrógeno total': '11,5%', 'Óxido magnesio': '15%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '1.460 (Kg/m3)', 'Conductividad eléctrica': '0,5 (mmhos/cm)', 'Índice salino (base salitre sódico=100)': '60', 'pH': '4', 'Punto de ebullición': '330°C', 'Punto de fusión': '89°C', 'Solubilidad en agua a 20 °C': '697,7gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_2_10nitratodepotasiosoluble_1.jpg
+title: Nitrato de Potasio Soluble (Sacos 25 Kg.)
+elements: ['N', 'K']
+description: Fertilizante que aporta nitrógeno nítrico y potasio de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Nitrógeno nítrico': '13%', 'Nitrógeno total': '13%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales.', 'Color': 'Blanco', 'Densidad': '2.101 (Kg/m3)', 'Conductividad eléctrica': '1,3 (dS/m)', 'Índice salino (base salitre sódico=100)': '73,6', 'pH': '7 (solución al 10%)', 'Punto de ebullición': '400 °C', 'Punto de fusión': '333 °C', 'Solubilidad en agua a 20 °C': '316 gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_2_15sulfatodepotasiosoluble_1.jpg
+title: Sulfato de Potasio Soluble (Sacos 25 Kg.)
+elements: ['K', 'S']
+description: Fertilizante que aporta potasio y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '18%', 'Índice de acidez': 'NR', 'Índice NPK': '0-0-50+18%S', 'Potasio': '50%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales', 'Color': 'Blanco', 'Densidad': '2,66 (g/cm3)', 'Conductividad eléctrica': '1,4 (dS/m)', 'Índice salino (base salitre sódico=100)': '46,1', 'pH': '2-3', 'Punto de ebullición': '1.689 °C', 'Punto de fusión': '1.067 °C', 'Solubilidad en agua a 20 °C': '108gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_2_16sulfatodezincsoluble_3.jpg
+title: Sulfato de Zinc Soluble (Sacos 25 Kg.)
+elements: ['Zn', 'S']
+description: Fertilizante que aporta zinc y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '11%', 'Índice de acidez': 'NR', 'Índice NPK': '0-0-0+21,5 %Zn+11%S', 'Zinc': '22%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco verdoso', 'Densidad': '1.970 (Kg/m3) 20°C', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '4,4-6 (Solución al 5% a 25°C)', 'Punto de ebullición': '500°C', 'Punto de fusión': '100 °C', 'Solubilidad en agua a 20 °C': '524gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Boronatrocalcita
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Boro': '10%', 'Calcio': '11%'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/p/epsotop6.jpg
+title: Epsotop (Sacos 25 Kg.)
+elements: ['Mg']
+description: Sulfato de Magnesio con registro orgánico. Fertilizante que aporta magnesio y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Producto para uso en fertiriego
+chemicals: {'Azufre S': '13%', 'Índice NPK': '0-0-0+16%MgO+13%S', 'Magnesio': '16%', 'Óxido magnesio': '16%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '1.7 (gr/ml)', 'Conductividad eléctrica': '0,8 (dS/m)', 'pH': '8 a 11', 'Punto de ebullición': 'No aplicable', 'Punto de fusión': '770°C', 'Solubilidad en agua a 20 °C': '342gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_11fosfatomonoamonicogranulado.jpg
+title: Fosfato Monoamónico Granulado (Sacos 25 Kg.)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno y fósforo de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Fósforo': '52%', 'Nitrógeno amoniacal': '11%', 'Nitrógeno total': '11%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos', 'Color': 'Café', 'Densidad': '971-1.060 (Kg/m3)', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': '25', 'pH': '4,4-4,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '190°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_2_6fosfatomonoamonicosoluble_3.jpg
+title: Fosfato Monoamonico Soluble (Sacos 25 Kg.)
+elements: ['N', 'P']
+description: Fertilizante que aporta nitrógeno y fósforo de rápida disponibilidad para las plantas. Producto para uso en fertiriego.
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Fósforo': '61%', 'Índice de acidez': '-5,3 (Kg CaCO3/1Kg N)', 'Índice NPK': '12-61-0', 'Nitrógeno amoniacal': '12%', 'Nitrógeno total': '12%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '920-976 (Kg/m3)', 'Conductividad eléctrica': '0,8 (mmhos/cm)', 'Índice salino (base salitre sódico=100)': '34,2', 'pH': '4,3-5,0 (solución al 1%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '190°C', 'Solubilidad en agua a 20 °C': '371gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Fosfato Monopotásico
+elements: []
+description:  El fosfato monopotásico (KH3PO4), también conocido como MKP, es una sal de potasio altamente soluble. Se utiliza la dilución de esta sal en agua como una fuente de potasio, fosforo eficiente y de baja conductividad eléctrica para los cultivos, es un fertilizante que contribuye a aumentar el contenido de azúcares y mejorar calidad de fruta en etapa de fructificación.
+use_recomendation: None
+chemicals: {'Fósforo': '52%', 'Potasio': '34%'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Nitrato de calcio (sacos 25 kg)
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Calcio': '26%', 'Nitrógeno amoniacal': '1%', 'Nitrógeno nítrico': '14,5%', 'Nitrógeno total': '15,5%'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/s/o/solupotasse.jpg
+title: Solupotasse (Sacos 25 Kg.)
+elements: ['K', 'S']
+description: Sulfato de Potasio grado hidropónico. Fertilizante que aporta potasio y azufre de rápida disponibilidad para las plantas.
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '18%', 'Potasio': '50%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales', 'Color': 'Blanco', 'Densidad': '1.100-1.400 (Kg/m3)', 'Conductividad eléctrica': '1,4 (dS/m)', 'Índice salino (base salitre sódico=100)': '46,1', 'pH': '2,7 (solución al 1%)', 'Punto de ebullición': '1.670 °C', 'Punto de fusión': '1.067 °C', 'Solubilidad en agua a 20 °C': '120gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Sulfato de Amonio Soluble (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante que aporta nitrógeno y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '24%', 'Índice de acidez': '-5,4 (Kg CaCO3/1Kg N)', 'Índice NPK': '21-0-0 + 24S', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '1.100 (Kg/m3)', 'Conductividad eléctrica': '1,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '69', 'pH': '5,5 (solución saturada a 15°C)', 'Punto de ebullición': '105°C', 'Punto de fusión': '235°C', 'Solubilidad en agua a 20 °C': '753,3gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/s/u/sulfato_de_magnesio.jpg
+title: Sulfato de Magnesio Soluble (Sacos 25 Kg.)
+elements: ['Mg', 'S']
+description: Fertilizante que aporta magnesio y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '13%', 'Óxido magnesio': '16%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales finos', 'Color': 'Blanco', 'Densidad': '1.67 gr/ml', 'Conductividad eléctrica': '0,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '116,3', 'pH': '5-7 (solución al 10%) Densidad', 'Punto de ebullición': 'No aplicable', 'Punto de fusión': '1.124°C.', 'Solubilidad en agua a 20 °C': '1084gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/s/u/sulfato_de_manganeso.jpg
+title: Sulfato de Manganeso  (Sacos 25 Kg.)
+elements: []
+description: Es un fertilizante soluble que aporta un alto contenido de manganeso como sulfato. Adecuado para corregir deficiencias nutricionales del elemento en todos los cultivos. El manganeso optimiza la fotosíntesis, síntesis de proteínas e interviene como factor clave en numerosos procesos enzimáticos de las plantas.
+use_recomendation: None
+chemicals: {'Azufre S': '19%', 'Manganeso': '31%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Solubilidad en agua a 20 °C': '630gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/h/o/hortisul.jpg
+title: Sulfato de Potasio Hortisul (Sacos 25 Kg.)
+elements: ['K', 'S']
+description: Sulfato de Potasio con registro orgánico. Fertilizante que aporta potasio y azufre de rápida disponibilidad para las plantas. 
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '18%', 'Índice de acidez': 'NR', 'Índice NPK': '0-0-52+18%S', 'Potasio': '52%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Polvo soluble', 'Color': 'Beige', 'Densidad': '1.100-1.400 (Kg/m3)', 'Conductividad eléctrica': '1,4 (dS/m)', 'Índice salino (base salitre sódico=100)': '46,1', 'pH': '6-7', 'Punto de ebullición': '1.670 °C', 'Punto de fusión': '1.067 °C', 'Solubilidad en agua': '110gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Sulfotop (maxisacos)
+elements: []
+description: Es un fertilizante nitrogenado con un alto contenido en azufre, con excelentes propiedades físicas y químicas: Granulación homogénea, ausencia de polvo, sin N en forma ureica y elevada solubilidad. Aporta nitrógeno en forma nítrica y amoniacal.
+use_recomendation: None
+chemicals: {'Azufre S': '13%', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/u/r/urea_1.jpg
+title: Urea Granulada (Maxisacos)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Puede ser usado como producto simple y en mezclas. 
+use_recomendation: Apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NR', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/m/e/mezcla_crece_me.jpg
+title: Vitra solubles Crece+M.E (Sacos 25 Kg.)
+elements: []
+description:  
+use_recomendation: None
+chemicals: {'Azufre S': '1%', 'Fósforo': '10%', 'Nitrógeno amoniacal': '50%', 'Nitrógeno nítrico': '50%', 'Nitrógeno total': '25%', 'Óxido magnesio': '1%', 'Potasio': '10%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/m/e/mezcla_desarrollo_me.jpg
+title: Vitra solubles Desarrollo+M.E (Sacos 25 Kg.)
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Azufre total': '7%', 'Boro': '0,01%', 'Fósforo': '6%', 'Manganeso': '0,03%', 'Nitrógeno amoniacal': '53%', 'Nitrógeno nítrico': '47%', 'Nitrógeno total': '18%', 'Óxido magnesio': '2%', 'Potasio': '18%', 'Zinc': '0,01%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Vitra solubles Inicio+M.E (Sacos 25 Kg.)
+elements: []
+description: Mezcla soluble formulada para estimular las primeras etapas de desarrollo del cultivo. Momento de aplicación: Primera etapa de desarrollo del cultivo.
+use_recomendation: None
+chemicals: {'Azufre S': '1%', 'Fósforo': '30%', 'Manganeso': '0,03%', 'Nitrógeno amoniacal': '54%', 'Nitrógeno nítrico': '46%', 'Nitrógeno total': '15%', 'Óxido magnesio': '1%', 'Potasio': '15%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Vitra solubles Multipropósito +M.E (Sacos 25 Kg.)
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Azufre S': '1%', 'Fósforo': '18%', 'Nitrógeno amoniacal': '46%', 'Nitrógeno nítrico': '54%', 'Nitrógeno total': '18%', 'Óxido bórico': '1%', 'Potasio': '18%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Vitra solubles Pinta+M.E (Sacos 25 Kg.)
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Azufre S': '6%', 'Fósforo': '5%', 'Nitrógeno amoniacal': '100%', 'Nitrógeno total': '1%', 'Potasio': '48%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: Vitra solubles Post temprana+M.E (Sacos 25 Kg.)
+elements: []
+description:  
+use_recomendation: None
+chemicals: {'Fósforo': '13%', 'Nitrógeno amoniacal': '20%', 'Nitrógeno nítrico': '80%', 'Nitrógeno total': '13%', 'Potasio': '36%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/m/e/mezcla_producci_n.jpg
+title: Vitra solubles Producción +M.E (Sacos 25 Kg.)
+elements: []
+description: None
+use_recomendation: None
+chemicals: {'Fósforo': '6%', 'Nitrógeno amoniacal': '10%', 'Nitrógeno nítrico': '90%', 'Nitrógeno total': '13%', 'Potasio': '40%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mop.jpg
+title: VitraMop (Sacos 25 Kg.)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '4%', 'Óxido magnesio': '5%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado', 'Color': 'Blanco grisáceo', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec.jpg
+title: Vitratec 21 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante soluble para uso en fertiriego que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, viniendo además con un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación.
+use_recomendation: None
+chemicals: {'Azufre S': '24%', 'Índice de acidez': '-5,4 (Kg CaCO3/1Kg N)', 'Índice NPK': '21-0-0 + 24S', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos pequeños', 'Color': 'Verde claro', 'Densidad': '1.100 (Kg/m3)', 'Conductividad eléctrica': '1,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '69', 'pH': '5,5 (solución saturada a 15°C)', 'Punto de ebullición': '105°C', 'Punto de fusión': '235°C', 'Solubilidad en agua a 20 °C': '753 gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_20sulfatodeamoniogranulado.jpg
+title: Sulfato de Amonio Granulado (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '24%', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '1.100 (Kg/m3)', 'Conductividad eléctrica': '1,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '69', 'pH': '5,5 (solución saturada a 15°C)', 'Punto de ebullición': '105°C', 'Punto de fusión': '235°C', 'Solubilidad en agua a 20 °C': '41,22 (g/100mlagua)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_1.jpg
+title: Vitratec (Sacos 25 Kg.)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación, lo que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación logrando una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a estos mecanismos de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+Producto apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde azulino claro', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NC', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100gr)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_3.jpg
+title: Vitratec (Maxisacos)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación, lo que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación logrando una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a estos mecanismos de pérdida.
+use_recomendation: Producto apto para ser usado en fertiriego y en aplicaciones directas al suelo a través del uso de maquinaria.
+chemicals: {'Índice de acidez': '-1,8(Kg CaCO3/1Kg N)', 'Índice NPK': '46-0-0', 'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde azulino claro', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(dS/m)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'NC', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/g/u/gur-net.jpg
+title: GUR-NET (Sacos 25 Kg.)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la ureasa, lo que minimiza las pérdidas por volatilización y logra una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a este mecanismo de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(mmhos/cm)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'k (-273,15 °C)', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/g/u/gur-net_1.jpg
+title: GUR-NET (Maxisacos)
+elements: ['N']
+description: Fertilizante granulado que aporta nitrógeno de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la ureasa, lo que minimiza las pérdidas por volatilización y logra una mayor eficiencia en la aplicación de nitrógeno cuando existen las condiciones predisponentes a este mecanismo de pérdida.
+use_recomendation: Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Nitrógeno amoniacal': '46%', 'Nitrógeno total': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Blanco', 'Densidad': '768 (Kg/m3)', 'Conductividad eléctrica': '0,01(mmhos/cm)', 'Índice salino (base salitre sódico=100)': '75,4', 'pH': '5,8 (solución al 10%)', 'Punto de ebullición': 'k (-273,15 °C)', 'Punto de fusión': '132,7°C', 'Solubilidad en agua a 20 °C': '105 (gr/100ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_26_2.jpg
+title: Entec 26 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice de acidez': '-85,6 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '950 Kg/m3', 'Conductividad eléctrica': 'NR', 'pH': '3,5 (100g/l a 20°C)', 'Punto de fusión': '170°C', 'Solubilidad en agua a 20 °C': '653 (g/lt)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_26_3.jpg
+title: Entec 26 (Maxisacos)
+elements: ['N', 'S']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice de acidez': '-85,6 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '18,5%', 'Nitrógeno nítrico': '7,5%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '950 Kg/m3', 'Conductividad eléctrica': 'NR', 'pH': '3,5 (100g/l a 20°C)', 'Punto de fusión': '170°C', 'Solubilidad en agua a 20 °C': '653 (g/ml)'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec.jpg
+title: Entec 25-15 (Sacos 25 Kg.)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y fósforo de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Fertilizante no apto para fertiriego. Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Fósforo': '15%', 'Índice de acidez': '-51,8 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '25-15-0', 'Nitrógeno amoniacal': '14%', 'Nitrógeno nítrico': '11%', 'Nitrógeno total': '25%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_2.jpg
+title: Entec Perfect  14-7-17 (Sacos 25 Kg.)
+elements: ['N', 'P', 'K', 'Mg', 'S', 'B', 'Zn']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal, fósforo, potasio, magnesio, azufre y microelementos de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación. 
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en fertiriego.
+chemicals: {'Azufre S': '9%', 'Boro': '0,02%', 'Fósforo': '7%', 'Nitrógeno amoniacal': '7,9%', 'Nitrógeno nítrico': '6,1%', 'Nitrógeno total': '14%', 'Óxido magnesio': '2%', 'Potasio': '17%', 'Zinc': '0,01%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mag.jpg
+title: VitraMag (Sacos 25 Kg.)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '9%', 'Óxido magnesio': '9%', 'Potasio': '31%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado', 'Color': 'Beige', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8', 'Solubilidad en agua a 0°C': '36,57 gr/100 ml', 'Solubilidad en agua a 10°C': '39,55 gr/100 ml', 'Solubilidad en agua a 20 °C': '43,56 gr/100 ml'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mag_1.jpg
+title: VitraMag (Maxisacos)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '9%', 'Óxido magnesio': '9%', 'Potasio': '31%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado', 'Color': 'Beige', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8', 'Solubilidad en agua a 0°C': '36,57 gr/100 ml', 'Solubilidad en agua a 10°C': '39,55 gr/100 ml', 'Solubilidad en agua a 20 °C': '43,56 gr/100 ml'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mop_1.jpg
+title: VitraMop (Maxisacos)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '4%', 'Óxido magnesio': '5%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado', 'Color': 'Blanco grisáceo', 'Densidad': '1,2052 g/ml', 'Humedad': '0.03%', 'pH': '9,8'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_1_5_dragox_1.jpg
+title: Dragox 
+elements: ['Ca']
+description: Enmienda granulada de acción rápida, compatible con mezclas de siembra en todo tipo de cultivos. Fertilizante granulado capaz de corregir problemas de bajo pH en el suelo de forma similar a como se hace a través de la aplicación de cal y dolomita en los suelos de la zona sur de Chile.
+use_recomendation: Puede ser usado como producto simple a o en mezclas, corrigiendo la acidez directamente en la zona radicular
+chemicals: {'Óxido magnesio': '55%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Café', 'Granulometría': '90% entre 2 a 4 mm', 'Densidad': '1.201 Kg/m³', 'Conductividad eléctrica': 'NR', 'Humedad': 'Menor a 1.5%', 'pH': '8 a 10 (solución al 10%)', 'Punto de ebullición': '3.000°C', 'Punto de fusión': '2.500°C', 'Resistencia': 'Mayor a 2 kg/granulo', 'Solubilidad en agua a 25 °C': '14,9 gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_mg.jpg
+title: Azufertil Magnesio (Sacos 25 Kg.)
+elements: ['S', 'Mg', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre, calcio y magnesio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo. 
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '7%', 'Calcio': '26%', 'Óxido magnesio': '9%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3 (81 lb/cft)', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_blend.jpg
+title: Vitratec Blends (Maxisacos)
+elements: ['N', 'S']
+description: Son mezclas físicas de fertilizantes granulares, donde su utiliza Vitratec como fuente de nitrógeno.
+
+El uso de Vitratec como inhibidor de la nitrificación permite que el nitrógeno aplicado permanezca en la zona radicular hasta 10 semanas después de su aplicación ya que minimiza las pérdidas por lixiviación y desnitrificación. Se formulan en base a los requerimientos de cada cliente y/o en base a análisis de suelo.
+
+Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '26%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Maxisacos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec_blend_1.jpg
+title: Vitratec Blends (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Son mezclas físicas de fertilizantes granulares, donde su utiliza Vitratec como fuente de nitrógeno. 
+
+El uso de Vitratec como inhibidor de la nitrificación permite que el nitrógeno aplicado permanezca en la zona radicular hasta 10 semanas después de su aplicación ya que minimiza las pérdidas por lixiviación y desnitrificación. Se formulan en base a los requerimientos de cada cliente y/o en base a análisis de suelo.
+
+Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y azufre de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Puede ser usado como producto simple y en mezclas. No apto para uso en riego por cintas.
+chemicals: {'Azufre S': '13%', 'Índice NPK': '26-0-0+13%S', 'Nitrógeno amoniacal': '26%', 'Nitrógeno total': '26%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_s_1.jpg
+title: Azufertil Azufre (Maxisacos)
+elements: ['S', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre y calcio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '15%', 'Calcio': '29%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/z/azu_fertil_s.jpg
+title: Azufertil Azufre (Sacos 25 Kg.)
+elements: ['S', 'Ca']
+description: Fertilizante granulado que se fabrica a partir de un proceso de micronización a 400 Mesh, calcinación a 1.200°C y posterior granulación. Aporta los macroelementos azufre y calcio, los cuales dado su proceso de fabricación, son de rápida disponibilidad una vez aplicados al suelo.
+use_recomendation: Fertilizante no apto para fertiriego.
+chemicals: {'Azufre S': '15%', 'Calcio': '29%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado Esférico', 'Color': 'Café', 'Densidad': '1312 kg/m3', 'Resistencia': 'Mayor a 2 kg/granulo'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_1.jpg
+title: Entec 25-15 (Maxisacos)
+elements: ['N', 'P']
+description: Fertilizante granulado que aporta nitrógeno nítrico, nitrógeno amoniacal y fósforo de rápida disponibilidad para las plantas. Contiene en su formulación un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación, desnitrificación.
+use_recomendation: Fertilizante no apto para fertiriego. Puede ser usado como producto simple y en mezclas. 
+chemicals: {'Fósforo': '15%', 'Índice de acidez': '-51,8 (Kgs CaCO3/100Kgs Fertilizante)', 'Índice NPK': '25-15-0', 'Nitrógeno amoniacal': '14%', 'Nitrógeno nítrico': '11%', 'Nitrógeno total': '25%'}
+physical_properties: {'Presentación': 'Maxisacos', 'Apariencia': 'Gránulos esféricos', 'Color': 'Verde', 'Densidad': '1.150 Kg/m3', 'Conductividad eléctrica': 'NR', 'Índice salino (base salitre sódico=100)': 'NR', 'pH': '5 (100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': 'NR'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/e/n/entec_21.jpg
+title: Entec 21 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante soluble para uso en fertiriego que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, viniendo además con un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación.
+use_recomendation: Apto para ser usado en fertiriego
+chemicals: {'Azufre S': '24%', 'Índice NPK': '21 +24%S', 'Nitrógeno': '21%', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Cristales o perlas', 'Color': 'Blanco amarillento', 'Olor': 'Prácticamente sin olor.', 'Densidad': '1.766 g/cm3 (20°C)', 'pH': '5 (solución 100g/l a 20°C)', 'Punto de ebullición': 'NR', 'Punto de fusión': '130°C', 'Solubilidad en agua a 20 °C': '764 g/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/m/amino_vitra_zn.jpg
+title: Aminovitra Zn (Bidón 20 Lt.)
+elements: ['N', 'P', 'K', 'Mg', 'Zn', 'B']
+description: Aminoácidos de alta eficiencia para aplicaciones foliares y al suelo en todo tipo de frutales, hortalizas y cultivos
+De origen mixto, AminoVitra Zn combina la riqueza en aminoácidos del tejido animal y vegetal en un aminograma completo, el cual contiene los 20 aminoácidos esenciales en la producción de proteínas y que además ha sido enriquecido con Zinc y otros macro y microelementos nutricionales esenciales para el desarrollo de cualquier especie vegetal.
+use_recomendation: Aplicar el tercio medio del riego
+En aplicaciones foliares utilizar suficiente mojamiento para generar buena cobertura.
+No aplicar el producto sin dilución previa.
+Dejar pasar 48 hrs sin riegos posteriores a la aplicación.
+No dejar la solución madre e
+chemicals: {'Aminoácidos libres': '8%', 'Aminoácidos totales': '20%', 'Boro': '200 ppm', 'Fierro': '30 ppm', 'Fósforo': '1,3%', 'Magnesio': '0,5%', 'Manganeso': '60 ppm', 'Materia orgánica': '30%', 'Materia seca': '36%', 'Nitrógeno total': '2,5%', 'Potasio': '0,9%', 'Zinc': '2%'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Líquido', 'Color': 'Café', 'Densidad': '1,15 (g/cm3)', 'Conductividad eléctrica': '0,3 dS/m', 'pH': '4,0 - 5,0 (gr/lt a 20°C)', 'Punto de ebullición': '107 °C', 'Punto de fusión': '-2 °C', 'Solubilidad en agua a 20 °C': '1'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/h/y/hydra_hume_1.jpg
+title: Hydra Hume (Maxisacos)
+elements: []
+description:  
+use_recomendation: None
+chemicals: {}
+physical_properties: {'Presentación': 'Maxisacos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/h/y/hydra_hume.jpg
+title: Hydra Hume (Sacos 25 Kg.)
+elements: []
+description:  
+use_recomendation: None
+chemicals: {}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitra_mop.jpg
+title: VitraMop (Sacos 25 Kg.)
+elements: ['K', 'Mg', 'S']
+description: Fertilizante granulado que aporta potasio, magnesio y azufre de rápida disponibilidad para las plantas, pudiendo ser usado como fertilizante simple o en mezclas. 
+use_recomendation: Producto no apto para uso en fertiriego. No recomendado para cultivos sensibles al cloro (Cl).
+chemicals: {'Azufre S': '4%', 'Óxido magnesio': '5%', 'Potasio': '46%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Granulado', 'Color': 'Blanco grisáceo', 'Densidad': '1,2052 g/ml', 'Humedad': '0,03%', 'pH': '9,8'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/v/i/vitratec.jpg
+title: Vitratec 21 (Sacos 25 Kg.)
+elements: ['N', 'S']
+description: Fertilizante soluble para uso en fertiriego que aporta nitrógeno y azufre de rápida disponibilidad para las plantas, viniendo además con un inhibidor de la nitrificación que permite que el nitrógeno aplicado permanezca más tiempo en la zona radicular, minimizando las pérdidas por lixiviación y desnitrificación.
+use_recomendation: None
+chemicals: {'Azufre S': '24%', 'Índice de acidez': '-5,4 (Kg CaCO3/1Kg N)', 'Índice NPK': '21-0-0 + 24S', 'Nitrógeno amoniacal': '21%', 'Nitrógeno total': '21%'}
+physical_properties: {'Presentación': 'Sacos de 25 kilogramos', 'Apariencia': 'Gránulos pequeños', 'Color': 'Verde claro', 'Densidad': '1.100 (Kg/m3)', 'Conductividad eléctrica': '1,8 (dS/m)', 'Índice salino (base salitre sódico=100)': '69', 'pH': '5,5 (solución saturada a 15°C)', 'Punto de ebullición': '105°C', 'Punto de fusión': '235°C', 'Solubilidad en agua a 20 °C': '753 gr/lt'}
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: VitraFol Extra Cinc 20 Lt
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: VitraFol Extra Magnesio 20 Lt
+
+image: https://www.agrovitra.com/media/catalog/product/placeholder/default/prod-vitra.jpg
+title: VitraFol Extra Calcio 20 Lt
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/a/m/amino_vitra_zn.jpg
+title: Aminovitra Zn (Bidón 20 Lt.)
+elements: ['N', 'P', 'K', 'Mg', 'Zn', 'B']
+description: Aminoácidos de alta eficiencia para aplicaciones foliares y al suelo en todo tipo de frutales, hortalizas y cultivos
+De origen mixto, AminoVitra Zn combina la riqueza en aminoácidos del tejido animal y vegetal en un aminograma completo, el cual contiene los 20 aminoácidos esenciales en la producción de proteínas y que además ha sido enriquecido con Zinc y otros macro y microelementos nutricionales esenciales para el desarrollo de cualquier especie vegetal.
+use_recomendation: Aplicar el tercio medio del riego
+En aplicaciones foliares utilizar suficiente mojamiento para generar buena cobertura.
+No aplicar el producto sin dilución previa.
+Dejar pasar 48 hrs sin riegos posteriores a la aplicación.
+No dejar la solución madre e
+chemicals: {'Aminoácidos libres': '8%', 'Aminoácidos totales': '20%', 'Boro': '200 ppm', 'Fierro': '30 ppm', 'Fósforo': '1,3%', 'Magnesio': '0,5%', 'Manganeso': '60 ppm', 'Materia orgánica': '30%', 'Materia seca': '36%', 'Nitrógeno total': '2,5%', 'Potasio': '0,9%', 'Zinc': '2%'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Líquido', 'Color': 'Café', 'Densidad': '1,15 (g/cm3)', 'Conductividad eléctrica': '0,3 dS/m', 'pH': '4,0 - 5,0 (gr/lt a 20°C)', 'Punto de ebullición': '107 °C', 'Punto de fusión': '-2 °C', 'Solubilidad en agua a 20 °C': '1'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_9_vitrafol_topcobre.jpg
+title: Vitrafol Algas 20 Lt
+elements: ['P', 'Mg', 'K', 'N']
+description: Líquido es un bioestimulante sobre la base de algas marinas (Durvillaea antarctica y Ascophyllum nodosum) conteniendo fitohormonas naturales y azúcares en pequeñas concentraciones de fácil y rápida asimilación, que permite mejorar las condiciones nutritivas de las plantas en situaciones de estrés y estimula el desarrollo equilibrado del cultivo.Esta base orgánica, ha sido suplementada con macro y micronutrientes formando un complejoórgano-mineral de fácil y rápido metabolismo.
+use_recomendation: None
+chemicals: {'Fósforo': '30 g/l (3,0% p/v K2O)', 'Magnesio': '5 G/L (0,5% P/V MgO)', 'Nitrógeno': '60g/l (6,0% p/v N)', 'Potasio': '50 g/l (5,0% p/v K2O)'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,15 - 1,20 g/cc', 'pH': '4,5 a 5,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_5_vitrafol_induktor_20-20.jpg
+title: Vitrafol Boromolibdeno 20 lt
+elements: ['B']
+description: Su formulación está estudiada para favorecer el desarrollo foliar, cuajado y maduración de los frutos. La presencia de Boro en su composición previene y/o cura las deficiencias en la planta, factor a tener en cuenta, sobre todo, en los períodos de máximo desarrollo vegetativo y durante la floración. El molibdeno ayuda al equilibrio del nitrógeno en su forma nítrico/ amoniacal.
+use_recomendation: None
+chemicals: {'Boro': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': '20 °C 1.25 - 1.35 g/cc', 'pH': '7 a 8'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_4_vitrafol_topcalcio.jpg
+title: Vitrafol Calcio 20 Lt
+elements: ['Ca']
+description: Está formulado como concentrado soluble de alta pureza. Contiene Calcio(8,0 % p/v de CaO) quelatado con gluconato y sales húmicas. Esta formulado para prevenir y corregir defiiencias de Calcio en las plantas, alargando la vida de post-cosecha de frutas y hortalizas. Disminuye la incidencia de desórdenes fisiológicos. Optimiza el crecimiento de brotes nuevos. Participa en la formación de pectinas de las paredes celulares, mejorando la firmeza de los tejidos.
+use_recomendation: None
+chemicals: {'Calcio': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Líquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,10 - 1,20 g/cc', 'pH': '5,5 a 6,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_1_vitrafol_induktor_40-20_1.jpg
+title: Vitrafol Calcioboro 20 Lt
+elements: ['B']
+description: Fertilizante formulado como concentrado soluble de alta pureza, contiene Calcio y Boro, quelatado con gluconato y lignosulfonato. Esta formulado para prevenir y corregir deficiencias de calcio y boro en plantas, debido a la ausencia de las formas asimilables de estos elementos en el suelo. Alarga la vida de post-cosecha de frutas y hortalizas. Influye en la traslocación de calcio, azucares y reguladores de crecimiento dentro de la planta. Mejora la cuaja de frutos, facilita la germinación del polen y ayuda al desarrollo del tubo polínico. Optimiza el crecimiento de brotes nuevos. Participa en la formación de pectinas de lasparedes celulares, mejorando la firmeza de los tejidos.
+use_recomendation: None
+chemicals: {'Boro': '0,25% p/v', 'Calcio': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,15 - 1,25 g/cc', 'pH': '3,5 a 4,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_10_vitrafol_induktor_zinc.jpg
+title: Vitrafol Cinc 20 Lt
+elements: ['Zn']
+description: Es un corrector nutricional quelatado con gluconato y lignosulfonatos, que contiene cinc, dada esta característica, la corrección es altamente eficiente. Esta formulado para rpevenir y corregir deficiencias de cinc en plantas.  Su formulación ha sido diseñada para favorecer el desarrollo foliar, cuajado y maduración de los frutos. Es un fertilizante que permite dar vigor a los cultivos tratados. Interviene en el crecimiento y en la dominancia apical de la planta. (Precursor de auxinas). Es compatible con la mayoría de los fertilizantes foliares y fitosanitarios comúnm,ente usados, sin embargo, se recomienda hacer pruebas de compatibilidad antes de su aplicación.
+use_recomendation: None
+chemicals: {'Zinc': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Amarillo', 'Densidad': 'A 20°C 1,18 - 1,22 g/cc', 'pH': '5,0 a 6,0'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_11vitrafol_induktor_zinc_manganeso.jpg
+title: Vitrafol Cincmanganeso 20 Lt
+elements: ['Zn']
+description: Es un fertilizante foliar correctivo que combina perfectamente el Zn y Mn. Es una formulación líquida con agentes quelatantes que facilitan su absorción y traslocación en los tejidos vasculares de la planta. Especialmente desarrollado para cultivos exigentes en ambos nutrientes como citrícos y carozos donde la deficiencia de manganeso se observa una vez corregido el cinc.
+use_recomendation: None
+chemicals: {'Manganeso': '2% p/v', 'Zinc': '6% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café claro', 'Densidad': 'A 20°C 1,18 - 1,22 g/cc', 'pH': '5,0 a 6,0'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_1_vitrafol_induktor_40-20_2.jpg
+title: Vitrafol Extra Algas 20 Lt
+elements: ['P', 'Mg', 'K', 'N']
+description: Es un bioestimulante sobre la base de algas marinas ( Durvillaea antarctica y Ascophyllum nodosum), conteniendo fitohormonas naturales y azúcares, concentraciones fácil y rápida asimilación,  permitiendo mejorar las condiciones nutritivas de las plantas. Es un bioestimulante con alto contenido de carbohidratos, fitohormonas, vitaminas y aminoacidos libres; esta base orgánica ha sido suplementada con macro y micronutrientes formando un complejo órgano-mineral de fácil y rápido metabolismo.
+use_recomendation: None
+chemicals: {'Fósforo': '30 g/l (3,0% p/v P2O5)', 'Magnesio': '5 G/L (0,5% P/V MgO)', 'Nitrógeno': '60g/l (6,0% p/v N)', 'Potasio': '50 g/l (5,0% p/v K2O)'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C - 1,29 g/cc', 'pH': '4,5 a 5,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_5_vitrafol_topboroplus.jpg
+title: Vitrafol Extra Boro 20 Lt
+elements: ['B']
+description: Es un fertilizante foliar líquido, que está formulado como concentrado 100% soluble de alta pureza. Contiene Boro, enriquecido con ácidos carboxílicos y polioles. Dada esta propiedad, la corrección es altamente eficiente. No deja residuos, permite una pulverización eficiente a hojas, brotes y frutos.
+use_recomendation: None
+chemicals: {'Boro': '15% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,35 - 1,40 g/cc', 'pH': '7,0 a 8,0'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_8_vitrafol_topfierro.jpg
+title: Vitrafol Fierro 20 Lt
+elements: []
+description: Es un quelato de hierro formulado para prevenir y corregir deficiencias de este elemento en la planta. Estable en rango de pH 5 a 9 lo que asegura que el hierro no sufra alteraciones y tenga translaminaridad en la planta tratada. El Hierro forma parte de citocromos, proteínas y participa en reacciones de óxido-reducción. Se asocia con varias enzimas como activador o formando parte de las mismas. Forma parte de una gran cantidad de enzimas respiratorias como la peroxidasa, catalasa, ferredoxina y citocromo-oxidasa. Optimiza el crecimiento de brotes nuevos.
+use_recomendation: None
+chemicals: {'Fierro': '60 g/l (6,0% p/v Fe)'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,20 - 1,30 g/cc', 'pH': '4,0 a 5,0'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/1/_/1_3_1_1_vitrafol_induktor_40-20.jpg
+title: Vitrafol Fosfo 40-20
+elements: ['P', 'K']
+description: Contiene Fosfito de (40,0% p/p de lon Fosfito, 20% p/p de Potasio), esta enriquecido con Ácido Hidróxibenzoico, lo que potencia el efecto de Resistencia Sitemática Adquirida, estimulando fitoalexinas. Posee doble sistemia: ascendente y descendente. Su formulación está estudiada para favorecer el desarrollo de la planta y tolerar el estrés causados por agentes bióticos y ambientales. La presencia de Potasio en su composición previene y/o cura la deficiencia de estos elementos en la planta, factor a tener en cuenta, sobre todo en los períodos de máxima demanda de éste elemento.
+use_recomendation: None
+chemicals: {'Fósforo': '40% p/v', 'Potasio': '20% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Color': 'Transparente', 'Densidad': 'A 20°C - 1,35 - 1,40  g/cc', 'pH': '2,0 a 3,0'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_3_vitrafol_topmagnesio.jpg
+title: Vitrafol Magnesio 20 Lt
+elements: ['Mg']
+description: Es un fertilizantes líquido formulado como concentrado soluble de alta pureza, quelatado con gluconato y lignosulfonato esta desarrollado para complementar la nutrición del magnesio en los momentos de mayor demanda de este nutriente por la planta.
+use_recomendation: None
+chemicals: {'Magnesio': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café claro', 'Densidad': 'A 20°C 1,20 - 1,30 g/cc', 'pH': '4,5 a 5,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_7_vitrafol_topmanganeso.jpg
+title: Vitrafol Manganeso 20 Lt
+elements: []
+description: Es un fertilizante formulado como concentrado soluble de alta pureza, quelatado con gluconato y lignosulfonato. Ayuda a la maduración del fruto y evita desórdenes fisiológicos del racimo. Mejora el meabolismo activando la sintesis de clorofila, carbohidratos respiración y madurez de los cloroplastos, por esto se recomienda la fertilización desde pre-floración hasta la pinta o inicio de la madurez as intensa del fruto.
+use_recomendation: None
+chemicals: {'Manganeso': '8% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,20 - 1,30 g/cc', 'pH': '4,5 a 5,5'}
+
+image: https://www.agrovitra.com/media/catalog/product/cache/436a919ca88aef43f9dfe51927fb9114/5/_/5_1_2_vitrafol_toppotasio.jpg
+title: Vitrafol Potasio 20 Lt
+elements: ['K']
+description: Es un fertilizante formulado como concentrado soluble de potasio complejado con gluconato, sales húmicas y lignosufonatos. Actúa como corrector de carencias  fisiologicas de potasio (inicio de brotación o flujos de crecimiento vegetativo y alta demanda evapotranspirativa). Está especialmente recomendado en las últimas etapas de elongación celular y maduración de frutos y hortalizas, sin afectar la postcosecha.
+use_recomendation: None
+chemicals: {'Potasio': '12% p/v'}
+physical_properties: {'Presentación': 'Bidones de 20 litros', 'Apariencia': 'Liquido', 'Color': 'Café', 'Densidad': 'A 20°C 1,15 - 1,20 g/cc', 'pH': '4,5 a 5,5'}
+
